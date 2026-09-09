@@ -36,7 +36,7 @@ El código ha sido realizado, compilado y subido desde Visual Studio Code.
 ```
 
 <details>
-<summary><img src="https://img.shields.io/badge/Contacto-black?style=for-the-badge&logo=protonmail" alt="Email" style="pointer-events: none;"></summary>
+<summary><b>✉️ Contacto</b></summary>
 
 <br>
 
