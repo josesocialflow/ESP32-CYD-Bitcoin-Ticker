@@ -34,11 +34,6 @@ El código ha sido realizado, compilado y subido desde Visual Studio Code.
 └── README.md             # Documentación del proyecto
 
 
-<details>
-<summary><img src="https://img.shields.io/badge/Contacto-black?style=for-the-badge&logo=protonmail" alt="Email"></summary>
 
-<br>
 
 📧 **Email:** `jsocialflow [arroba] protonmail [punto] com`
-
-</details>
