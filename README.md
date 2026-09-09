@@ -18,6 +18,8 @@ El código ha sido realizado, compilado y subido desde Visual Studio Code.
 ## 🛠️ Hardware
 - **Placa:** ESP32 CYD 3.5" (Pantalla ST7796, resolución $480 \times 320$ px).
 
+
+## 🎥 Video del proyecto
 [![Ver vídeo demostrativo](https://img.youtube.com/vi/v3RNFjvWsig/maxresdefault.jpg)](https://www.youtube.com/watch?v=v3RNFjvWsig)
 
 
@@ -32,4 +34,13 @@ El código ha sido realizado, compilado y subido desde Visual Studio Code.
 └── README.md             # Documentación del proyecto
 
 
-[![Contacto](https://img.shields.io/badge/Contacto-Enviar_Correo-blue?style=for-the-badge&logo=minutemailer)](mailto:jsocialflow (arroba) protonmail (punto) com)
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/Contacto-black?style=for-the-badge&logo=protonmail" alt="Email">
+</summary>
+
+<br>
+
+📧 **Email:** `jsocialflow [arroba] protonmail [punto] com`
+
+</details>
