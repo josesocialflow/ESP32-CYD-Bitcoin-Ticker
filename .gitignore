@@ -1,0 +1,28 @@
+# ==========================================
+# 1. Credenciales y Archivos Privados
+# ==========================================
+# Ignora las contraseñas WiFi y claves secretas
+include/config.h.verdadero
+
+# ==========================================
+# 2. Copias de Seguridad y Archivos Viejos
+# ==========================================
+# Ignora respaldos temporales o versiones antiguas
+*.old
+*.bak
+*.tmp
+
+# ==========================================
+# 3. Entorno de Compilación de PlatformIO
+# ==========================================
+# Ignora los binarios generados y librerías descargadas
+.pio/
+
+# ==========================================
+# 4. Configuración Local de VS Code
+# ==========================================
+# Ignora bases de datos de autocompletado y rutas locales
+.vscode/.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/ipch
