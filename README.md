@@ -40,6 +40,6 @@ El código ha sido realizado, compilado y subido desde Visual Studio Code.
 
 <br>
 
-📧 **Email:** `jsocialflow [arroba] protonmail [punto] com`
+📧 **Email:** `web.yard952@passfwd.com`
 
 </details>
